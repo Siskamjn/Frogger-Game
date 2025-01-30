@@ -5,7 +5,11 @@ Frogger Game is a classic arcade-style game where players control a frog to cros
 
 🎮 Features
 ✅ Frog Character – Move up, down, left, and right.
+
 ✅ Road Obstacles – Avoid moving vehicles to stay alive.
+
 ✅ Floating Logs – Use wooden logs to cross the river safely.
+
 ✅ Level & Score System – Gain points and advance through levels.
+
 ✅ Timer & Lives – Complete the level before time runs out while avoiding obstacles.
